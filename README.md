@@ -1,7 +1,7 @@
 # PredictiveModelingForAgriculture
 I dived into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems.
 Problem Statement
-Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
+# Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
 ![farmer_in_a_field](https://github.com/RashidTobrazune/PredictiveModelingForAgriculture/assets/150378293/a2853819-e72f-4d57-8870-3758977633b2)
 
 
@@ -37,5 +37,7 @@ Weighted: Averages the F1 scores for each class while considering the support (t
 <img width="960" alt="Screenshot 2024-07-09 140136" src="https://github.com/RashidTobrazune/PredictiveModelingForAgriculture/assets/150378293/1428dcda-e79a-495c-836b-456fe95d80a4">
 
 <img width="960" alt="Screenshot 2024-07-09 140150" src="https://github.com/RashidTobrazune/PredictiveModelingForAgriculture/assets/150378293/366a62b4-5651-4be0-a713-250008ca869c">
+Insights
 
 <img width="528" alt="agric_results" src="https://github.com/RashidTobrazune/PredictiveModelingForAgriculture/assets/150378293/e10a58c7-b47a-4dc8-a00e-e54f6d33b7db">
+
