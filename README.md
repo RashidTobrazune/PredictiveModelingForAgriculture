@@ -1,4 +1,4 @@
-# PredictiveModelingForAgriculture
+# Predictive Modeling For Agriculture
 I dived into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems.
 Problem Statement
 # Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
